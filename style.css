@@ -124,3 +124,25 @@ footer{
     padding-bottom: 5px;
     border-top: 10px solid #4eaaa4;
 }
+
+input{
+        display: block;
+        width: 100%;
+        border: 1px solid #DCDCDC;
+}
+
+input[name=message]{
+    height: 200px;
+}
+
+input[name=name]{
+
+    height: 25px;
+
+}
+
+input[name=email]{
+
+    height: 25px;
+
+}

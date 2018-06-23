@@ -19,7 +19,7 @@ body {
     height: 64px;
     margin: auto;
     background-color: #ffffff;
-    border-bottom: 1px solid #DCDCDC;
+    border-bottom: 1px solid #cccccc;
   
 }
 
@@ -74,7 +74,7 @@ h2 {
     background-color: #ffffff;
     font-family: Arial, Helvetica, sans-serif;    
     padding: 30px;
-    border: 1px solid #DCDCDC	;
+    border: 1px solid #cccccc;
 }
 
 #main-bio {
@@ -133,7 +133,7 @@ footer {
 input {
         display: block;
         width: 100%;
-        border: 1px solid #DCDCDC;
+        border: 1px solid #cccccc;
 }
 
 input[name=message] {
